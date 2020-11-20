@@ -12,7 +12,7 @@ Each day the City of Chicago receives graffiti removal requests.  These requests
 
 ###  A dynamic line graph that displays the number and the date of graffiti removal requests. 
 
-This graph was created using D3.js library. 
+This graph was created using D3.js library 
 
 ![LinePLot](docs/static/img/line_plot.png) 
 
@@ -20,7 +20,7 @@ This graph was created using D3.js library.
 
 ### An interactive table that filters the graffiti based on your ZIP code.  
 
-Table was created using HTML/CSS. 
+Table was created using HTML/CSS
 
 ![Table](docs/static/img/table.png) 
 
@@ -28,7 +28,7 @@ Table was created using HTML/CSS.
 
 ### One Cluster Map that shows the address and the graffiti spot. 
 
-The map was created using Leaflet library. 
+The map was created using Leaflet library
 
 ![ClusterMap](docs/static/img/cluster_map.png) 
 
@@ -36,20 +36,16 @@ The map was created using Leaflet library.
 
 ### One Heat Map that shows the area that have the highest number of graffiti complaints.  
 
-The map was created using Leaflet library. 
+The map was created using Leaflet library 
 
 ![HeatMap](docs/static/img/heat_map.png) 
 
          
 
-- The Dashboard page contains a Navigation Bar with buttons for all the maps, table, chart and the API data. 
+- The Dashboard page contains a Navigation Bar with buttons for all the maps, table, chart and the API data 
 
-- We included a new Java Script library, CircleType.js, that allows us to curve text on our homepage. 
+- Included in the file are the Java Script library, CircleType.js, that allows us to curve the text on our homepage 
 
 
 ## Team: “Word on the Street”
-Team Members: 
-    Katie Young,
-    Liliana Ilut,
-    Vasil Nenov,
-    Quentin Sloboda.
+Team Members:  Katie Young,    Liliana Ilut,    Vasil Nenov,    Quentin Sloboda.
