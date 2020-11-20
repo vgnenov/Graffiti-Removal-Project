@@ -1,11 +1,4 @@
-# graffiti-removal in Chicago
-## Team: “Word on the Street”
-Team Members: 
-    Katie Young,
-    Liliana Ilut,
-    Vasil Nenov,
-    Quentin Sloboda.
-
+# Graffiti Removal in Chicago
 
 ![Graffiti](https://media.giphy.com/media/3o6fITIGbYys34HW6s/giphy.gif)
 
@@ -66,4 +59,9 @@ The map was created using Leaflet library.
 5. We included a new Java Script library, CircleType.js, that allows us to curve text on our homepage. 
 
 
-
+## Team: “Word on the Street”
+Team Members: 
+    Katie Young,
+    Liliana Ilut,
+    Vasil Nenov,
+    Quentin Sloboda.
