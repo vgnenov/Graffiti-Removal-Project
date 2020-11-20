@@ -18,33 +18,33 @@ This graph was created using D3.js library.
 
   
 
-### 3.2. An interactive table that filters the graffiti based on your ZIP code.  
+### An interactive table that filters the graffiti based on your ZIP code.  
 
 Table was created using HTML/CSS. 
 
-![Table](static/img/table.png) 
+![Table](docs/static/img/table.png) 
 
   
 
-### 3.3. One Cluster Map that shows the address and the graffiti spot. 
+### One Cluster Map that shows the address and the graffiti spot. 
 
 The map was created using Leaflet library. 
 
-![ClusterMap](static/img/cluster_map.png) 
+![ClusterMap](docs/static/img/cluster_map.png) 
 
   
 
-### 3.4. One Heat Map that shows the area that have the highest number of graffiti complaints.  
+### One Heat Map that shows the area that have the highest number of graffiti complaints.  
 
 The map was created using Leaflet library. 
 
-![HeatMap](static/img/heat_map.png) 
+![HeatMap](docs/static/img/heat_map.png) 
 
          
 
-4. The Dashboard page contains a Navigation Bar with buttons for all the maps, table, chart and the API data. 
+- The Dashboard page contains a Navigation Bar with buttons for all the maps, table, chart and the API data. 
 
-5. We included a new Java Script library, CircleType.js, that allows us to curve text on our homepage. 
+- We included a new Java Script library, CircleType.js, that allows us to curve text on our homepage. 
 
 
 ## Team: “Word on the Street”
