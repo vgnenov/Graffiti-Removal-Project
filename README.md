@@ -2,31 +2,19 @@
 
 ![Graffiti](https://media.giphy.com/media/3o6fITIGbYys34HW6s/giphy.gif)
 
-## Background 
+## Project Purpose  
+
+Each day the City of Chicago receives graffiti removal requests.  These requests are input and tracked through their 311 reporting system.  This project explores the data from the 311 Service Requests and will observe trends as well as tell a story through data visualization.
 
   
 
-Each day someone in Chicago makes a call to 311 to report a graffiti that needs to be removed. The City of Chicago is doing a very good job to keep track of these graffiti and to removed them, some in a manner of days. Our project explores the data from 311 Service Requests - Graffiti Removal. The data set included with the assignment is found here : https://data.cityofchicago.org/Service-Requests/311-Service-Requests-Graffiti-Removal-Historical/hec5-y4x5/data. 
+## Process 
 
-The goal of this project is to explore the data, observe trends, and tell a story through data visualization. 
-
-  
-
-### Requirements 
-
-1. Our project includes a Python Flask–powered RESTful API, HTML/CSS, JavaScript, and SQL database. 
-
-2. Pandas was used to scrap, clean, and push the data to a SQL database. 
-
-3. Our project contains: 
-
-  
-
-### 3.1. A dynamic line graph that displays the number and the date of graffiti removal requests. 
+###  A dynamic line graph that displays the number and the date of graffiti removal requests. 
 
 This graph was created using D3.js library. 
 
-![LinePLot](static/img/line_plot.png) 
+![LinePLot](docs/static/img/line_plot.png) 
 
   
 
