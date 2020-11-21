@@ -5,7 +5,7 @@
 ## Project Purpose  
 
 Each day the City of Chicago receives graffiti removal requests.  These requests are input and tracked through their 311 reporting system.  This project explores the data from the 311 Service Requests and will observe trends as well as tell a story through data visualization.
-
+![Screenshot](docs/static/img/Chicago.jpg)
   
 
 ## Process & Results
