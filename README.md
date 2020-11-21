@@ -18,7 +18,7 @@ This graph was created using D3.js library
 
   
 
-### An interactive table that filters the graffiti based on your ZIP code.  
+### An interactive table that filters the graffiti based on your ZIP code and displays results  
 
 Table was created using HTML/CSS
 
