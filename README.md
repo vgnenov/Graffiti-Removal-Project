@@ -8,7 +8,7 @@ Each day the City of Chicago receives graffiti removal requests.  These requests
 
   
 
-## Process and Results
+## Process  Results
 
 ###  A dynamic line graph that displays the number and the date of graffiti removal requests. 
 
@@ -49,4 +49,5 @@ The map was created using Leaflet library
 
 ## Contributors
 - Quentin Sloboda - https://github.com/qwsloboda
-
+- Liliana Ilut - https://github.com/liliana-ilut
+- Katie Young - https://github.com/kayoung7766
