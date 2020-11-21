@@ -8,7 +8,7 @@ Each day the City of Chicago receives graffiti removal requests.  These requests
 
   
 
-## Process  Results
+## Process & Results
 
 ###  A dynamic line graph that displays the number and the date of graffiti removal requests. 
 
