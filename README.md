@@ -46,6 +46,7 @@ The map was created using Leaflet library
 
 - Included in the file are the Java Script library, CircleType.js, that allows us to curve the text on our homepage 
 
+# Conclusion
 
 ## Contributors
 - Quentin Sloboda - https://github.com/qwsloboda
