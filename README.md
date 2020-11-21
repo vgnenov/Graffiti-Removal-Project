@@ -47,5 +47,7 @@ The map was created using Leaflet library
 - Included in the file are the Java Script library, CircleType.js, that allows us to curve the text on our homepage 
 
 
-## Team: “Word on the Street”
-Team Members:  Katie Young,    Liliana Ilut,    Vasil Nenov,    Quentin Sloboda.
+## Contributors
+- Quentin Sloboda - https://github.com/qwsloboda
+- Liliana Ilut - https://github.com/liliana-ilut
+- Katie Young - https://github.com/kayoung7766
